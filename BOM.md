@@ -4,7 +4,7 @@ This list contains all the hardware, milled parts, and printed components requir
 
 *Note: You will find smaller, sub-assembly-specific BOMs within the [Assembly Guide](Assembly_Guide.md) for easier step-by-step building.*
 
-## 1. Included with Kit
+## 1. Included with the A3DP Gantry Kit
 
 This group contains the milled parts, Idlers, Pulleys, Shims, and Standoffs provided with an A3DP gantry kit.
 
