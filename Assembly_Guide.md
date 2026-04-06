@@ -409,8 +409,6 @@ If you are using these A3DP gantry parts to upgrade an existing Voron printer, p
 
 **End of Guide.**
 
-### Paste Block for KoFi ###
-
 ***
 
 > ☕ **Did you find this guide helpful?** 
