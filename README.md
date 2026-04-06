@@ -10,6 +10,7 @@
 A modular, high-performance CoreXY gantry upgrade designed for maximum rigidity and precision within the A3DP and Alchemical-3D ecosystem.
 
 > [!NOTE]
+>
 > This is an in progress guide, and will continue to receive updates and refinement as the usermods are released.  There are several projects that are already being built adjacent to this guide and will be linked to it before long.
 
 <p align="center">
