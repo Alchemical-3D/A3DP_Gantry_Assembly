@@ -7,7 +7,7 @@
 [![Ecosystem](https://img.shields.io/badge/Ecosystem-Alchemical--3D-purple)](#)
 [![Ecosystem](https://img.shields.io/badge/Ecosystem-A3DP-orange)](#)
 
-A modular, high-performance CoreXY gantry upgrade designed for maximum rigidity and precision within the A3DP and Alchemical-3D ecosystem.
+A modular, high-performance CoreXY gantry upgrade designed for maximum rigidity and precision within the A3DP ecosystem.
 
 > [!NOTE]
 >
