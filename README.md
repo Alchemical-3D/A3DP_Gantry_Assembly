@@ -73,4 +73,3 @@ Everything you need to successfully build or upgrade to the A3DP Gantry:
 >
 > [![Ko-Fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/alchemical3d)
 
-> [![Ko-Fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/alchemical3d)
