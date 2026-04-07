@@ -19,7 +19,7 @@ A modular, high-performance CoreXY gantry upgrade designed for maximum rigidity 
   <img src="Images/formatted_assembly_images/XY_LHS_R.png" width="45%" alt="A3DP XY Joint" />
 </p>
 
-**[Bill of Materials](BOM.md)** &nbsp;•&nbsp; **[Assembly Guide](Assembly_Guide.md)** &nbsp;•&nbsp; **[Print Settings](Print_Settings.md)**
+**[Bill of Materials](BOM.md)** &nbsp;•&nbsp; **[Assembly Guide](Assembly_Guide.md)** &nbsp;•&nbsp; **[Print Settings](Print_Settings.md)** &nbsp;•&nbsp; **[Resources and Acknowledgements](Resources_and_Acknowledgements.md)**
 
 </div>
 
@@ -51,6 +51,13 @@ Everything you need to successfully build or upgrade to the A3DP Gantry:
 | 📋 **[Bill of Materials (BOM)](BOM.md)** | The comprehensive master checklist of all hardware, custom plates, and belts needed for the complete gantry. |
 | 🛠️ **[Assembly Guide](Assembly_Guide.md)** | A fully-illustrated, step-by-step mastercloth for putting the entire XY architecture together safely and squaring the frame. |
 | ⚙️ **[Print Settings](Print_Settings.md)** | Essential slicer configurations, material recommendations, and orientation rules for the required printed components. |
+| 🙏 **[Resources and Acknowledgements](Resources_and_Acknowledgements.md)** | Credits, community mentions, and additional resources related to this project. |
+
+---
+
+## 🔗 Related Projects
+
+- **[Alembic Toolhead](https://github.com/Alchemical-3D/Alembic_Toolhead)**: Looking for a toolhead to pair with this gantry? The Alembic toolhead was designed for it. Go check it out and see if it fits your needs!
 
 ---
 
@@ -64,4 +71,6 @@ Everything you need to successfully build or upgrade to the A3DP Gantry:
 > 
 > My projects are open-source and free for the community. If you've enjoyed my designs and want to support my work, consider [leaving me a tip on Ko-fi](https://ko-fi.com/alchemical3d)! 
 >
+> [![Ko-Fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/alchemical3d)
+
 > [![Ko-Fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/alchemical3d)
