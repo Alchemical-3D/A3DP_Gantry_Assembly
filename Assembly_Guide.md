@@ -291,7 +291,7 @@ If you are using these A3DP gantry parts to upgrade an existing Voron printer, p
 | 2GT Idler - 9mm - Smooth | 1 | 5mm Bore |
 | M5x0.3mm Shims | 4 | |
 | M5 x 22mm Retaining Pin | 2 | |
-| M3 SHCS | 4 | Carriage mount |
+| M3 x 8mm SHCS | 4 | Carriage mount |
 | XY LHS Joint Milled Bracket | 1 | Main joint block |
 
 ### 🛠️ Assembly Instructions
@@ -326,7 +326,7 @@ If you are using these A3DP gantry parts to upgrade an existing Voron printer, p
 | 2GT Idler - 9mm - Smooth | 1 | 5mm Bore |
 | M5x0.3mm Shims | 4 | |
 | M5 x 22mm Retaining Pin | 2 | |
-| M3 SHCS | 4 | Carriage mount |
+| M3 x8mm SHCS | 4 | Carriage mount |
 | XY RHS Joint Milled Bracket | 1 | Main joint block |
 
 ### 🛠️ Assembly Instructions
