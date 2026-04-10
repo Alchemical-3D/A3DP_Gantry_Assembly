@@ -45,8 +45,8 @@ Before starting the assembly, please review the following guidelines to ensure a
 > **Belt Tensioning Guidelines:**
 >
 > Proper belt tension prevents ringing, skipping, and premature mechanical wear. **Do not over-tension the belts!** Excessive tension causes rapid wear on bearings and can permanently damage stepper/servo motor shafts.
-> * **6mm Belts:** Rough target tension is **110Hz** over a 150mm unsupported span. They should feel taut but springy.
-> * **9mm Belts:** Require higher tension (~**130Hz - 140Hz** over a 150mm span) for optimal stiffness. *Note: Advanced dual-shear 9mm configurations may require tensions in excess of **200Hz**.*
+> * **6mm Belts:** Rough target tension is **110Hz** over a **150mm unsupported span**. They should feel taut but springy.
+> * **9mm Belts:** Require higher tension (~**130Hz - 140Hz over a 150mm span**) for optimal stiffness. *Note: Advanced dual-shear 9mm configurations may require tensions in excess of **200Hz over a 150mm span, but verify your belt specs**.*
 
 ---
 
