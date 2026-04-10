@@ -347,6 +347,9 @@ If you are using these A3DP gantry parts to upgrade an existing Voron printer, p
 #### Step 7.3: Secure the Rear Side of the Joint
 ![XY_RHS_R.png](Images/formatted_assembly_images/XY_RHS_R.png)
 
+> **NOTE:**
+> At this point, when the rail is installed horizontally on X, it is advised to run the rail by hand from front to back multiple times.  Inspect its movement for binding and bearing issues.   These issues can create print defects or even hardware damage if not resolved prior to operation.
+
 ---
 
 ## 8. X-Axis Carriage (X_Carriage)
