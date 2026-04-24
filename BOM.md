@@ -54,7 +54,7 @@ These standard components represent the self sourced hardware or are carried ove
 | Item | Total Qty | Description |
 | :--- | :---: | :--- |
 | **[MGN12H Linear Rail](https://kb-3d.com/store/motion/377-5506-kb3d-mgn12h-linear-rail-guide-with-carriage-multiple-lengths-1646161437836.html?affp=6182#/raillength-250mm)** | 1 | X-Axis central carriage runner |
-| **Printer Frame Extrusions ([Trident](https://kb-3d.com/store/frame-enclosure/471-8401-ldo-motors-frame-kit-for-voron-trident-multiple-types-1642791073246.html?affp=6182#/framecolor-black/trident_frame_type-250_cube_standard) / [V2.4](https://kb-3d.com/store/frame-enclosure/439-5550-ldo-motors-frame-kit-for-voron-v24-complete-1640811160297.html?affp=6182#/v2triharnesssizes-250mm/framecolor-black))** | Varies | 2020 or 3030 etc. |
+| **Printer Frame Extrusions EX: ([Trident](https://kb-3d.com/store/frame-enclosure/471-8401-ldo-motors-frame-kit-for-voron-trident-multiple-types-1642791073246.html?affp=6182#/framecolor-black/trident_frame_type-250_cube_standard) / [V2.4](https://kb-3d.com/store/frame-enclosure/439-5550-ldo-motors-frame-kit-for-voron-v24-complete-1640811160297.html?affp=6182#/v2triharnesssizes-250mm/framecolor-black))** | Varies | 2020 or 3030 etc. |
 | **[NEMA 17](https://kb-3d.com/store/stepper-motors-servos/1382-ldo-stepper-motor-nema-17-42sth48-2804ahs55-super-power-ht-1723666322079.html?affp=6182) or [A3DP Servo Motor](https://advanced3dprinting.com/products/integrated-servo-drives)**| 2 | For Left & Right Y-Axis drive |
 | **M5 Roll-In T-Nuts** | 28 | For 2020/3030 frame extrusions (frame dependent) |
 | **M5 x 20mm SHCS / BHCS** | 6 | Bottom extrusion spacers |
