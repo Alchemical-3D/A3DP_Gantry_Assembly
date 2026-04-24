@@ -107,6 +107,8 @@ If you are using these A3DP gantry parts to upgrade an existing Voron printer, p
 > **NOTE:**
 > Ensure each idler/pulley has a shim or spacer installed on both sides.  No rubbing should occur between the idler flange and other parts.
 >
+> Spacer block is installed on the bottom of the extrusion for this assembly.
+>
 > Shoulder bolts shall be inserted so that the cutout feature secures against the anti-rotation tab.
 >
 > The belt clamp plate is optional when assembling on a fixed gantry printer; however, it is recommended to preserve the face if the gantry is reused for other projects.
@@ -219,6 +221,8 @@ If you are using these A3DP gantry parts to upgrade an existing Voron printer, p
 > **NOTE:**
 > Ensure each idler/pulley has a shim or spacer installed on both sides.  No rubbing should occur between the idler flange and other parts.
 >
+> Spacer block is installed on the bottom of the extrusion for this assembly.
+>
 > Retaining pins shall be inserted so that the cutout feature secures against the anti-rotation tab.
 >
 > The belt clamp plate is optional when assembling on a fixed gantry printer; however, it is recommended to preserve the face if the gantry is reused for other projects.
@@ -261,6 +265,8 @@ If you are using these A3DP gantry parts to upgrade an existing Voron printer, p
 
 > **NOTE:**
 > Ensure each idler/pulley has a shim or spacer installed on both sides.  No rubbing should occur between the idler flange and other parts.
+>
+> Spacer block is installed on the bottom of the extrusion for this assembly.
 >
 > Retaining pins shall be inserted so that the cutout feature secures against the anti-rotation tab.
 >
