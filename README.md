@@ -49,7 +49,7 @@ Everything you need to successfully build or upgrade to the A3DP Gantry:
 | Category | Description |
 | :--- | :--- |
 | 📋 **[Bill of Materials (BOM)](BOM.md)** | The comprehensive master checklist of all hardware, custom plates, and belts needed for the complete gantry. |
-| 🛠️ **[Assembly Guide](Assembly_Guide.md)** | A fully-illustrated, step-by-step mastercloth for putting the entire XY architecture together safely and squaring the frame. |
+| 🛠️ **[Assembly Guide](Assembly_Guide.md)** | A fully-illustrated, step-by-step masterclass for putting the entire XY architecture together safely and squaring the frame. |
 | ⚙️ **[Print Settings](Print_Settings.md)** | Essential slicer configurations, material recommendations, and orientation rules for the required printed components. |
 | 🙏 **[Resources and Acknowledgements](Resources_and_Acknowledgements.md)** | Credits, community mentions, and additional resources related to this project. |
 
@@ -72,4 +72,8 @@ Everything you need to successfully build or upgrade to the A3DP Gantry:
 > My projects are open-source and free for the community. If you've enjoyed my designs and want to support my work, consider [leaving me a tip on Ko-fi](https://ko-fi.com/alchemical3d)! 
 >
 > [![Ko-Fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/alchemical3d)
+
+***
+*Documentation prepared with AI editorial assistance • Engineered & maintained by Alchemical-3D.*
+
 

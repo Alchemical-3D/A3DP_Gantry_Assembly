@@ -1,6 +1,7 @@
 # A3DP XY Gantry Assembly Guide
 
-> **NOTE:**
+> [!NOTE]
+> **Assembly Overview**
 > This guide provides step-by-step instructions for assembling the XY gantry of the A3DP 3D Printer. The process is broken down into modular sub-assemblies. Gather your Bill of Materials (BOM) for each section and follow the outlined steps.
 > 
 > *The machine you are building now will be a reflection of the effort committed to assembling it. Attention to detail is directly related to both the performance of the machine and its longevity.*
@@ -11,8 +12,8 @@
 
 Before starting the assembly, please review the following guidelines to ensure a reliable and accurate build.
 
-> **IMPORTANT:**
-> **Threadlocker:**
+> [!IMPORTANT]
+> **Threadlocker**
 >
 > When securing bolts into metal components (such as motor faces or milled aluminum plates), applying threadlocking compound is highly recommended. Do **not** use red/high-strength threadlocker, as it may permanently bind the bolts. Apply only a small drop to the leading threads before securing fasteners:
 >
@@ -20,18 +21,17 @@ Before starting the assembly, please review the following guidelines to ensure a
 >
 > * **3mm bolts:** Use a low-strength threadlocker such as [Loctite 222MS (Purple)](https://kb-3d.com/store/tools-equipment/774-loctite-threadlocker-222ms-low-strength-purple-mil-spec-6ml-1673749510419.html?affp=6182).
 >
->
-> **Warning:** Ensure threadlocker does *not* come into contact with 3D printed components. Many threadlockers can cause rapid chemical degradation in plastics unless specified (especially ABS, ASA, and Polycarbonate).
+> **Plastic Compatibility:** Ensure threadlocker does *not* come into contact with 3D printed components. Many threadlockers can cause rapid chemical degradation in plastics unless specified (especially ABS, ASA, and Polycarbonate).
 
-> **TIP:**
-> **Shimming and Frame Inconsistencies:**
+> [!TIP]
+> **Shimming and Frame Inconsistencies**
 >
 > The BOM specifies `M5x7x0.3mm Shims` to properly space the idler stacks. However, due to manufacturing tolerances, you may find that the gap diverges slightly. 
 > * Keep an assortment of precision M5 shims (0.3mm, 0.4mm, 0.5mm) on hand if possible.
 > * Add or swap shims to ensure bearings and idlers spin freely without excessive vertical wobble or binding. A loose component can be just as problematic as an overly tightened one.
 
-> **CAUTION:**
-> **Fastener Torque Specifications:**
+> [!CAUTION]
+> **Fastener Torque Specifications**
 >
 > Correct torque is critical for frame rigidity and preventing component damage. **WARNING:** The custom milled aluminum plates use somewhat delicate M3 and M5 threading. Overtightening will permanently strip the aluminum threads and deform the bearing races, ruining the hardware! Do not exceed these limits:
 >
@@ -41,8 +41,8 @@ Before starting the assembly, please review the following guidelines to ensure a
 >
 > * **Idler Shafts/Shoulder Bolts:** Snug them down securely to firmly clamp the inner races of the bearings and shims, but verify the entire idler stack can still rotate freely.
 
-> **WARNING:**
-> **Belt Tensioning Guidelines:**
+> [!WARNING]
+> **Belt Tensioning Guidelines**
 >
 > Proper belt tension prevents ringing, skipping, and premature mechanical wear. **Do not over-tension the belts!** Excessive tension causes rapid wear on bearings and can permanently damage stepper/servo motor shafts.
 > * **6mm Belts:** Rough target tension is **110Hz** over a **150mm unsupported span**. They should feel taut but springy.
@@ -54,15 +54,15 @@ Before starting the assembly, please review the following guidelines to ensure a
 
 If you are using these A3DP gantry parts to upgrade an existing Voron printer, please note the following critical frame modification for the Trident only:
 
-> **IMPORTANT:**
-> **Voron Trident Frame Modification:**
+> [!IMPORTANT]
+> **Voron Trident Frame Modification**
 >
 > When replacing the Trident gantry system, the **rear vertical 2020 extrusion must be shortened by 9mm**. This is necessary to accommodate the offset introduced by the new A3DP gantry hardware.  This only applies to the extrusion where the rear linear rail mounts, and not the entire frame.
 > 
 > *Note: This modification is **not required** on the Voron 2.4, as it utilizes a flying/floating gantry design.*
 
-> **TIP:**
-> **Enclosure Panel Clearance:**
+> [!TIP]
+> **Enclosure Panel Clearance**
 >
 > The new XY joints may overhang slightly more than stock parts and could make contact with your side enclosure panels. Ensure there is approximately **6mm of additional clearance** between the frame and the panels. You can easily compensate for this by using thick weatherstripping and printing the 6mm extended versions of the panel mounting clips provided with the Voron documentation.
 
@@ -104,7 +104,8 @@ If you are using these A3DP gantry parts to upgrade an existing Voron printer, p
 
 ### 🛠️ Assembly Instructions
 
-> **NOTE:**
+> [!NOTE]
+> **LHS Front Assembly Notes**
 > Ensure each idler/pulley has a shim or spacer installed on both sides.  No rubbing should occur between the idler flange and other parts.
 >
 > Spacer block is installed on the bottom of the extrusion for this assembly.
@@ -147,7 +148,8 @@ If you are using these A3DP gantry parts to upgrade an existing Voron printer, p
 
 ### 🛠️ Assembly Instructions
 
-> **NOTE:**
+> [!NOTE]
+> **RHS Front Assembly Notes**
 > Ensure each idler/pulley has a shim or spacer installed on both sides.  No rubbing should occur between the idler flange and other parts.
 >
 > Shoulder bolts shall be inserted so that the cutout feature secures against the anti-rotation tab.
@@ -182,7 +184,8 @@ If you are using these A3DP gantry parts to upgrade an existing Voron printer, p
 
 ### 🛠️ Assembly Instructions
 
-> **NOTE:**
+> [!NOTE]
+> **Front Tensioner Setup Notes**
 > This step is performed on **both** front idlers (Left and Right) on top and bottom.
 > 
 > Thread M2.5x10mm screw through the block to adjust belt tension. 
@@ -218,7 +221,8 @@ If you are using these A3DP gantry parts to upgrade an existing Voron printer, p
 
 ### 🛠️ Assembly Instructions
 
-> **NOTE:**
+> [!NOTE]
+> **LHS Rear Assembly Notes**
 > Ensure each idler/pulley has a shim or spacer installed on both sides.  No rubbing should occur between the idler flange and other parts.
 >
 > Spacer block is installed on the bottom of the extrusion for this assembly.
@@ -263,7 +267,8 @@ If you are using these A3DP gantry parts to upgrade an existing Voron printer, p
 
 ### 🛠️ Assembly Instructions
 
-> **NOTE:**
+> [!NOTE]
+> **RHS Rear Assembly Notes**
 > Ensure each idler/pulley has a shim or spacer installed on both sides.  No rubbing should occur between the idler flange and other parts.
 >
 > Spacer block is installed on the bottom of the extrusion for this assembly.
@@ -302,7 +307,8 @@ If you are using these A3DP gantry parts to upgrade an existing Voron printer, p
 
 ### 🛠️ Assembly Instructions
 
-> **NOTE:**
+> [!NOTE]
+> **XY LHS Joint Notes**
 > Ensure each idler/pulley has a shim or spacer installed on both sides.  No rubbing should occur between the idler flange and other parts.
 >
 > Retaining pins shall be inserted so that the cutout feature secures against the anti-rotation tab.  This keeps the pins from rotating and working out of the mount.
@@ -337,7 +343,8 @@ If you are using these A3DP gantry parts to upgrade an existing Voron printer, p
 
 ### 🛠️ Assembly Instructions
 
-> **NOTE:**
+> [!NOTE]
+> **XY RHS Joint Notes**
 > Ensure each idler/pulley has a shim or spacer installed on both sides.  No rubbing should occur between the idler flange and other parts.
 >
 > Retaining pins shall be inserted so that the cutout feature secures against the anti-rotation tab.  This keeps the pins from rotating and working out of the mount.
@@ -353,7 +360,8 @@ If you are using these A3DP gantry parts to upgrade an existing Voron printer, p
 #### Step 7.3: Secure the Rear Side of the Joint
 ![XY_RHS_R.png](Images/formatted_assembly_images/XY_RHS_R.png)
 
-> **NOTE:**
+> [!NOTE]
+> **X-Axis Linear Rail Travel Check**
 > At this point, when the rail is installed horizontally on X, it is advised to run the rail by hand from front to back multiple times.  Inspect its movement for binding and bearing issues.   These issues can create print defects or even hardware damage if not resolved prior to operation.
 
 ---
@@ -373,7 +381,7 @@ If you are using these A3DP gantry parts to upgrade an existing Voron printer, p
 
 ### 🛠️ Assembly Instructions
 
-> **NOTE:**
+> [!NOTE]
 > **Alignment Pins:** Always use the included alignment pins when joining the carriage sections to guarantee correct geometry.
 >
 > **Pro-Tip:** It is highly recommended to route and install the belts into the carriage clamps *prior* to fully fastening the carriage assembly down to the linear rail block.
@@ -390,7 +398,7 @@ If you are using these A3DP gantry parts to upgrade an existing Voron printer, p
 
 *After mechanically assembling the gantry, you must tune the kinetic system before running your machine. These steps are standard for CoreXY printers but are critical for achieving quality prints.*
 
-> **IMPORTANT:**
+> [!IMPORTANT]
 > **Belt Pathing & Alignment**
 > Verify that your A and B belt paths are routed correctly and aligned.
 > * There are only **two toothed idlers** in the entire belt path (one for each side). **Every other idler should be smooth**. Ensure the smooth side of the belt rides against smooth idlers, and the toothed side rides against toothed idlers/pulleys. Running the toothed side over a smooth idler will imprint pattern artifacts.
@@ -402,15 +410,15 @@ If you are using these A3DP gantry parts to upgrade an existing Voron printer, p
 > * Pluck each belt at the longest 150mm unsupported span.
 > * Adjust tensioner blocks on the front XY joints until both belts ring at the exact same pitch (e.g., ~110Hz for 6mm belts, ~140Hz for standard 9mm belts, or >200Hz for dual-shear 9mm systems). Uneven tension will twist the X-axis and induce skew into the printing plane.
 
-> **CAUTION:**
+> [!CAUTION]
 > **Squaring the Gantry (De-racking)**
 > A critical step in a CoreXY build is ensuring the gantry is perfectly square. If the X-axis carriage is out of square with the Y-axis rails, you will experience binding, noisy movements, and dimensionally incorrect prints or other defects. 
 > 1. Bring the X-axis carriage close to the front of the Y-axis constraints.
 > 2. Loosen the grubs/screws on your stepper motor pulleys so they can spin freely on their shafts.
 > 3. Pull both Y-axis carriages firmly against their front mechanical hard-stops.
-> 4. While holding the carriages tight against the stops, re-tighten the motor pulleys. This effectively squares ("de-racks") the gantry.
+> 4. While holding the carriages tight against the stops, re-tighten the motor pulleys. This effectively squares ("de-racking") the gantry.
 
-> **TIP:**
+> [!TIP]
 > **Lubricating Linear Rails**
 > Before completing the build, verify if your carriage blocks shipped with factory oil or legitimate lubricant (like Mobilux EP1 or SuperLube). If they only shipped in transport oil, you must clean and relube them. Operating dry or poorly lubricated linear rails significantly reduces their lifespan and has a direct impact on print quality.
 
@@ -425,3 +433,7 @@ If you are using these A3DP gantry parts to upgrade an existing Voron printer, p
 > My projects are open-source and free for the community. If you've enjoyed my designs and want to support my work, consider [leaving me a tip on Ko-fi](https://ko-fi.com/alchemical3d)! 
 >
 > [![Ko-Fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/alchemical3d)
+
+***
+*Documentation prepared with AI editorial assistance • Engineered & maintained by Alchemical-3D.*
+

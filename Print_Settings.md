@@ -21,3 +21,7 @@ Below are the suggested values for a reliable, functional print to balance weigh
 - **Cooling:** Depending on your current printer, use minimal part cooling to ensure excellent layer adhesion for maximum structural integrity.
 
 Once you have your parts printed, proceed to the [Assembly Guide](Assembly_Guide.md) and check your [Bill of Materials](BOM.md) for required hardware.
+
+***
+*Documentation prepared with AI editorial assistance • Engineered & maintained by Alchemical-3D.*
+

@@ -40,3 +40,6 @@ Here are the official links and communities where you can find support, parts, a
 > My projects are open-source and free for the community. If you've enjoyed my designs and want to support my work, consider [leaving me a tip on Ko-fi](https://ko-fi.com/alchemical3d)! 
 >
 > [![Ko-Fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/alchemical3d)
+
+***
+*Documentation prepared with AI editorial assistance • Engineered & maintained by Alchemical-3D.*

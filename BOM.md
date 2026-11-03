@@ -60,3 +60,7 @@ These standard components represent the self sourced hardware or are carried ove
 | **M5 x 20mm SHCS / BHCS** | 6 | Bottom extrusion spacers |
 | **M3 x 8mm SHCS** | 42 | Assorted carriage, motor, and standoff mounting |
 | **M5 x 10mm SHCS / BHCS** | 22 | Main extrusion mounting |
+
+***
+*Documentation prepared with AI editorial assistance • Engineered & maintained by Alchemical-3D.*
+
